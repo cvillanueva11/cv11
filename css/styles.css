@@ -1,0 +1,83 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  margin-top: 190px;
+  text-align: center;
+  font-family: 'Limelight', cursive;
+  font-size: 60px;
+  color: white;
+}
+
+h4 {
+  font-family: 'Rokkitt', serif;
+  color: #CDF3A2;
+  text-align: center;
+  position: relative;
+  bottom: 30px;
+}
+
+p {
+  font-family: 'Rokkitt', serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.first-garlands {
+  position: absolute;
+  right: 1050px;
+  bottom: 250px;
+  margin-bottom: 0;
+}
+
+.second-garlands {
+  position: absolute;
+  right: 660px;
+  bottom: 250px;
+  margin-bottom: 0;
+}
+
+.third-garlands {
+  position: absolute;
+  right: 270px;
+  bottom: 250px;
+  margin-bottom: 0;
+}
+
+.fourth-garlands {
+  position: absolute;
+  left: 1160px;
+  bottom: 250px;
+  margin-bottom: 0;
+}
+
+.cake {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  right: 660px;
+  top: 355px;
+}
+
+.milk-mocha {
+  position: relative;
+  left: 640px;
+  bottom: 40px;
+  width: 200px;
+  height: 200px;
+}
+
+
+.top-present {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container {
+  color: #B8DFD8;
+  position: relative;
+  text-align: center;
+  top: 90px;
+}
